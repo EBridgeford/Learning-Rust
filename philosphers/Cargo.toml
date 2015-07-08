@@ -1,0 +1,4 @@
+[package]
+name = "philosphers"
+version = "0.1.0"
+authors = ["Eric Bridgeford <misterbr@gmail.com>"]
